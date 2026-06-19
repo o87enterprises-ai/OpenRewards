@@ -140,8 +140,8 @@ const RewardsDashboard = () => {
                 <p className="text-sm text-white/50 mt-4">
                   Opting in lets us record which ads you actually viewed (duration only) so we can
                   pay you for them. Disclose your own data-collection and terms to users here — see
-                  the README for what Truegle Search discloses in its Privacy Policy / Terms of
-                  Service as a starting point. You can opt out at any time.
+                  the README's "What this is not" section for what your own Privacy Policy / Terms
+                  of Service should cover. You can opt out at any time.
                 </p>
               )}
             </div>
